@@ -143,7 +143,8 @@ sequenceDiagram
 
 ---
 
-## 🛡️ Core Development Modules (Module 1-5)###🟢 Module 1: Secure Login & MFA 🔐**Description:** A robust authentication system designed to withstand brute-force attacks while maintaining user experience.
+## 🛡️ Core Development Modules (Module 1-5) 
+### 🟢 Module 1: Secure Login & MFA 🔐**Description:** A robust authentication system designed to withstand brute-force attacks while maintaining user experience.
 
 **Security Focus:** Authentication & Authorization (OWASP M1–M3)
 
