@@ -144,7 +144,8 @@ sequenceDiagram
 ---
 
 ## 🛡️ Core Development Modules (Module 1-5) 
-### 🟢 Module 1: Secure Login & MFA 🔐**Description:** A robust authentication system designed to withstand brute-force attacks while maintaining user experience.
+### 🟢 Module 1: Secure Login & MFA 
+🔐**Description:** A robust authentication system designed to withstand brute-force attacks while maintaining user experience.
 
 **Security Focus:** Authentication & Authorization (OWASP M1–M3)
 
@@ -163,7 +164,8 @@ sequenceDiagram
 
 
 
-### 🔵 Module 2: Secure API Gateway 🔒**Description:** Centralized gateway enforcing HTTPS, stateless authentication, and input validation.
+### 🔵 Module 2: Secure API Gateway 
+🔒**Description:** Centralized gateway enforcing HTTPS, stateless authentication, and input validation.
 
 **Security Focus:** Secure Communication (OWASP M5–M6)
 
@@ -185,7 +187,8 @@ sequenceDiagram
 
 
 
-### 🟣 Module 3: Digital Agreement 📝**Description:** A legally binding digital lease workflow with non-repudiation features.
+### 🟣 Module 3: Digital Agreement 
+📝**Description:** A legally binding digital lease workflow with non-repudiation features.
 
 **Security Focus:** Data Integrity & Workflow Validation
 
@@ -218,7 +221,8 @@ sequenceDiagram
 * **Audit Trail:** IP address and User Agent are logged for every signature event.
 * **Storage:** Signed PDFs are stored securely on Cloudinary.
 
-### 🟠 Module 4: Smart Notification & Alert System 🔔**Description:** A custom-built security tracker that monitors real-time threats and notifies admins.
+### 🟠 Module 4: Smart Notification & Alert System 
+🔔**Description:** A custom-built security tracker that monitors real-time threats and notifies admins.
 
 **Security Focus:** DevSecOps Monitoring & Incident Detection
 
@@ -238,7 +242,8 @@ We built a sophisticated tracking engine (`securityTracker.js`) that monitors fa
 > **Subject:** ⚠️ Security Alert: 10 Failed Login Attempts from 192.168.1.100
 > **Body:** "Suspicious activity detected. Target Account: admin@rentverse.com. Recommended Action: Review Audit Logs."
 
-### 🔴 Module 5: Activity Log Dashboard 📊**Description:** Admin-facing dashboard for visualizing threats and system health.
+### 🔴 Module 5: Activity Log Dashboard 
+📊**Description:** Admin-facing dashboard for visualizing threats and system health.
 
 **Security Focus:** Threat Visualization & Accountability
 
