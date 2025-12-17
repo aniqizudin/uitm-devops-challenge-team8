@@ -58,25 +58,6 @@
 
 ---
 
-## 🔗 Quick Links
-
-| Platform | Link |
-|----------|------|
-| 🌐 **Live Website** | [https://rentverse-[YOUR-APP].vercel.app/](https://rentverse-[YOUR-APP].vercel.app/) |
-| 📱 **Mobile App (APK)** | [Download RentVerse APK](MobileAppBuild/rentverse.apk) |
-| 📚 **API Documentation** | [Swagger UI](/docs) |
-| 💻 **Source Code** | [GitHub Repository]([INSERT REPO LINK]) |
-
-### 🧪 Test Admin Credentials
-
-> **Note**: These credentials allow access to the Admin Dashboard for evaluation.
-
-| Role | Email | Password |
-|------|-------|----------|
-| **Admin** | `admin@rentverse.com` | `password123` |
-
----
-
 ## 📚 Table of Contents
 
 | Section | Description |
