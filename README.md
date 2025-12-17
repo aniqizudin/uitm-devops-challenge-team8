@@ -251,7 +251,8 @@ We built a sophisticated tracking engine (`securityTracker.js`) that monitors fa
 
 ---
 
-##🚀 Feature Innovation (Bonus Pool)###🟡 Threat Intelligence System (AI-Powered)We integrated a Python Microservice using **FastAPI** and **Scikit-learn**.
+## 🚀 Feature Innovation (Bonus Pool) 
+###🟡 Threat Intelligence System (AI-Powered)We integrated a Python Microservice using **FastAPI** and **Scikit-learn**.
 
 * **Model:** Isolation Forest (Anomaly Detection).
 * **Input:** Login Time, Geo-Location, Device Fingerprint.
