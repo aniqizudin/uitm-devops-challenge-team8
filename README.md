@@ -274,30 +274,39 @@ We built a sophisticated tracking engine (`securityTracker.js`) that monitors fa
 
 ---
 
-## 🛠️ Technology StackOur stack is chosen for performance, type safety, and rapid development.
+## 🛠️ Technology Stack
 
-### 🎨 Frontend (Web & Mobile)| Technology | Version | Purpose |
-| --- | --- | --- |
-| **Next.js** | 15.5 | React Framework with Turbopack |
-| **Tailwind CSS** | 4.0 | Utility-first styling |
-| **Zustand** | 5.0 | State Management |
-| **MapTiler** | 3.8 | Interactive Maps |
-| **Capacitor** | 8.0 | Native Mobile Runtime |
+Our stack is chosen for performance, type safety, and rapid development.
 
-### ⚙️ Backend & Security| Technology | Version | Purpose |
-| --- | --- | --- |
-| **Node.js** | 20+ | Server Runtime |
-| **Express.js** | 4.18 | API Framework |
-| **Prisma** | 5.3 | Type-safe ORM |
-| **Resend API** | - | Transactional Email Service |
-| **Helmet.js** | 7.0 | Security Headers |
+### 🎨 Frontend (Web & Mobile)
 
-### 🧠 AI & Data Science| Technology | Version | Purpose |
-| --- | --- | --- |
-| **FastAPI** | 0.116 | High-performance Python API |
-| **Scikit-learn** | 1.7 | Anomaly Detection Models |
-| **Pandas** | 2.3 | Data Manipulation |
-| **Uvicorn** | 0.35 | ASGI Server |
+| Technology     | Version | Purpose                          |
+|---------------|---------|----------------------------------|
+| Next.js       | 15.5    | React Framework with Turbopack   |
+| Tailwind CSS  | 4.0     | Utility-first styling            |
+| Zustand       | 5.0     | State Management                 |
+| MapTiler      | 3.8     | Interactive Maps                 |
+| Capacitor     | 8.0     | Native Mobile Runtime            |
+
+### ⚙️ Backend & Security
+
+| Technology   | Version | Purpose                      |
+|-------------|---------|------------------------------|
+| Node.js     | 20+     | Server Runtime               |
+| Express.js  | 4.18    | API Framework                |
+| Prisma      | 5.3     | Type-safe ORM                |
+| Resend API  | -       | Transactional Email Service  |
+| Helmet.js   | 7.0     | Security Headers             |
+
+### 🧠 AI & Data Science
+
+| Technology      | Version | Purpose                          |
+|----------------|---------|----------------------------------|
+| FastAPI        | 0.116   | High-performance Python API      |
+| Scikit-learn   | 1.7     | Anomaly Detection Models         |
+| Pandas         | 2.3     | Data Manipulation                |
+| Uvicorn        | 0.35    | ASGI Server                      |
+
 
 ---
 
